@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.env
+outputs/
+*.zip
+
+# Real job adverts belong to the sites that published them - keep them local
+data/real_ads/
+data/real_test.jsonl
+data/records.jsonl

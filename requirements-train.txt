@@ -1,0 +1,8 @@
+# For training and running the small model (needs a GPU, e.g. Google Colab)
+# Exact versions that the training script was written against.
+transformers==5.21.0
+trl==1.16.0
+peft==0.21.2
+datasets
+accelerate
+gradio

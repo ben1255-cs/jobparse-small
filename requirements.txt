@@ -1,0 +1,3 @@
+# For data generation, the API baseline and evaluation (runs on any laptop)
+openai>=1.0
+python-dotenv>=1.0
